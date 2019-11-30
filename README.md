@@ -1,5 +1,5 @@
 # LinkedIn_Fetcher
-<h6>I have created an experimental Selenium Application to:</h6>
+<h5>I have created an experimental Selenium Application to:</h5>
 <ol>
   <li>Opens a Chrome Browser and Login to LinkedIn page with given account information.</li>
   <li>Navigate to jobs and enter desired job text and location then clicks on Search button.</li>
